@@ -1,4 +1,4 @@
-# :earth_americas: GDP dashboard template
+# :earth_americas: RRG Graph
 
 A simple Streamlit app showing the GDP of different countries in the world.
 
@@ -17,3 +17,8 @@ A simple Streamlit app showing the GDP of different countries in the world.
    ```
    $ streamlit run streamlit_app.py
    ```
+
+
+Check Demo here : https://symmetrical-space-journey-x49r6q7vwjfp4vv-8501.app.github.dev/
+
+Codespaces : https://symmetrical-space-journey-x49r6q7vwjfp4vv.github.dev/
